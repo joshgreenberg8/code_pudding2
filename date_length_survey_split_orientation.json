@@ -1,1 +1,1 @@
-{"columns":["Response","Number of Responses"],"index":[0,1,2],"data":[["Too short",269],["Just right",202],["Too long",14]]}
+{"name":"length_dc","index":["Too short","Just right","Too long"],"data":[269,202,14]}
