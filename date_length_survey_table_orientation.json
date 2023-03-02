@@ -1,1 +1,0 @@
-{"schema":{"fields":[{"name":"index","type":"string"},{"name":"length_dc","type":"integer"}],"primaryKey":["index"],"pandas_version":"1.4.0"},"data":[{"index":"Too short","length_dc":269},{"index":"Just right","length_dc":202},{"index":"Too long","length_dc":14}]}
