@@ -10,5 +10,5 @@ A key for interpreting the data: https://github.com/joshgreenberg8/code_pudding2
 EDA analysis completed in a Jupyter notebook: https://github.com/joshgreenberg8/code_pudding2/blob/main/EDA.ipynb
 json exports: https://github.com/joshgreenberg8/code_pudding2/tree/main/json%20data
 
-Website located: https://ian-diz.github.io/Speed-Dating-Data-Site/
+Website located: https://ian-diz.github.io/Speed-Dating-Data-Site
 Website repo: https://github.com/Ian-Diz/Speed-Dating-Data-Site
